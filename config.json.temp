@@ -7,15 +7,14 @@
     "autoClean": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL ": "nhdz123456789z@gmail.com",
-    "MẬT KHẨU ": "dang26022003",
+    "EMAIL ": "",
+    "MẬT KHẨU ": "",
     "OTPKEY ": "",
     "BOTNAME": "𝕭𝖔𝖙 𝖈𝖗𝖊𝖆𝖙𝖉𝖎𝖙 𝖇𝖞 𝕵𝕽𝕿",
-    "PREFIX": "#",
+    "PREFIX": "!",
     "ADMINBOT": [
-        "100033478361032",
-        "100068017741000",
-        "100024164200125"
+        "ADMIN1",
+        "ADMIN2"
     ],
     "DATABASE": {
         "sqlite": {
