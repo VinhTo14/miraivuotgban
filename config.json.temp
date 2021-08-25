@@ -1,0 +1,34 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL ": "nhdz123456789z@gmail.com",
+    "MẬT KHẨU ": "dang26022003",
+    "OTPKEY ": "",
+    "BOTNAME": "𝕭𝖔𝖙 𝖈𝖗𝖊𝖆𝖙𝖉𝖎𝖙 𝖇𝖞 𝕵𝕽𝕿",
+    "PREFIX": "#",
+    "ADMINBOT": [
+        "100033478361032",
+        "100068017741000",
+        "100024164200125"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36"
+    }
+}
