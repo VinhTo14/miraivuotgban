@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "ytb",
+	name: "sing",
 	version: "1.0.5",
 	hasPermssion: 0,
 	credits: "JRT",
