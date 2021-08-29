@@ -6,7 +6,7 @@ ___    __  _   _ _   _  __
   \___/|_| \_\|_|    |_____/_/ \_\_| \_|\____|
 
 
-# miraiv2_JRT
+#JRT
 Bot dành cho messenger
 #Hướng dẫn cài đặt. 
 Git clone về máy hoặc tạo trên replit bằng link github.
